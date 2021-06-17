@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDataGridSorted", "WPFDataGridSorted\WPFDataGridSorted.csproj", "{2347D6AF-37D8-43BF-95AF-E2A23BC20EA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2347D6AF-37D8-43BF-95AF-E2A23BC20EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2347D6AF-37D8-43BF-95AF-E2A23BC20EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2347D6AF-37D8-43BF-95AF-E2A23BC20EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2347D6AF-37D8-43BF-95AF-E2A23BC20EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {344D4501-683D-4B2F-9CAA-F2A2E2D5F5A5}
+	EndGlobalSection
+EndGlobal
